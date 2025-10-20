@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShanJianSoda
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning AI
 
 
 <!---
